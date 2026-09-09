@@ -1,0 +1,27 @@
+[submodule "apps/qtcloud-work"]
+	path = apps/qtcloud-work
+	url = https://github.com/quanttide/qtcloud-work.git
+[submodule "packages/quanttide-work-toolkit"]
+	path = packages/quanttide-work-toolkit
+	url = https://github.com/quanttide/quanttide-work-toolkit.git
+[submodule "examples/default"]
+	path = examples/default
+	url = https://github.com/quanttide/quanttide-laboratory-of-knowledge-work.git
+[submodule "docs/bylaw"]
+	path = docs/bylaw
+	url = https://github.com/quanttide/quanttide-bylaw-of-knowledge-work.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-knowledge-work.git
+[submodule "docs/specification"]
+	path = docs/specification
+	url = https://github.com/quanttide/quanttide-specification-of-knowledge-work.git
+[submodule "docs/tutorial"]
+	path = docs/tutorial
+	url = https://github.com/quanttide/quanttide-tutorial-of-knowledge-work.git
+[submodule "docs/essay"]
+	path = docs/essay
+	url = https://github.com/quanttide/quanttide-essay-of-knowledge-work.git
+[submodule "docs/gallery"]
+	path = docs/gallery
+	url = https://github.com/quanttide/quanttide-gallery-of-knowledge-work.git
