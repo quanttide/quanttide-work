@@ -17,7 +17,7 @@ quanttide-work 是量潮知识工作领域，围绕知识工作的方法、流�
 
 | 路径 | 说明 |
 |------|------|
-| `apps/qtcloud-work` | 量潮知识工作云 (git submodule → qtcloud-work) |
+| `apps/qtcloud-work` | 量潮知识工作云——默认前台 (git submodule → qtcloud-work) |
 | `packages/quanttide-work-toolkit` | 知识工作工具箱 (git submodule → quanttide-work-toolkit) |
 | `examples/default` | 知识工作实验室 (git submodule → quanttide-laboratory-of-knowledge-work) |
 | `data/context` | 知识工作语境 (git submodule → quanttide-context-of-knowledge-work) |
