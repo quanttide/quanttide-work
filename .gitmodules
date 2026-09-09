@@ -58,3 +58,6 @@
 [submodule "data/archive"]
 	path = data/archive
 	url = https://github.com/quanttide/quanttide-archive-of-knowledge-work.git
+[submodule "apps/qtcloud"]
+	path = apps/qtcloud
+	url = https://github.com/quanttide/qtcloud.git
