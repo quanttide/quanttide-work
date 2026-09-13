@@ -4,6 +4,9 @@
 [submodule "packages/quanttide-work-toolkit"]
 	path = packages/quanttide-work-toolkit
 	url = https://github.com/quanttide/quanttide-work-toolkit.git
+[submodule "packages/quanttide-audit-toolkit"]
+	path = packages/quanttide-audit-toolkit
+	url = https://github.com/quanttide/quanttide-audit-toolkit.git
 [submodule "examples/default"]
 	path = examples/default
 	url = https://github.com/quanttide/quanttide-laboratory-of-knowledge-work.git
