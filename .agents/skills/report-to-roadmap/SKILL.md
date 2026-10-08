@@ -34,7 +34,7 @@ description: 量潮「报告到路线图」工作流——读 `data/report/` 里
 
 文档待改另起一站，字段用现状 / 拆法 / 判据 / 时机。
 
-顺序一段收尾，写先后与清理项去处。范本见 `apps/qtcloud-work/src/cli/ROADMAP.md`。
+顺序一段收尾，写先后与清理项去处。
 
 ## 步骤
 
