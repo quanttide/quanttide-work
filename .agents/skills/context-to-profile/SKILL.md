@@ -7,7 +7,7 @@ description: 量潮「语境到档案」工作流——把语境仓 `data/contex
 
 语境仓只收原始——当前就是各〈主体／域〉的当日流水；整理时把流水逐条认归属，粗加工成「**标签**：内容」的一节，写进档案仓的对应位置。材料只在档案仓保留，迁出后语境里那条即删，流水文件留空、目录保留。
 
-步骤与验收与画廊里的同名工作流一致（`docs/gallery/workflows/context-to-profile.md`，人看的正本；同名 `.yaml` 是机器形态）。
+步骤与验收与画廊里的同名管道一致（`docs/gallery/pipelines/context-to-profile.md`，人看的正本；同名 `.yaml` 是规格的形式化表达）。
 
 ## 仓库拓扑
 
